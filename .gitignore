@@ -65,3 +65,4 @@ instance/
 .idea/modules.xml
 .idea/vcs.xml
 api-training.db
+/__pycache__
